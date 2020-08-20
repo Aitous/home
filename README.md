@@ -2,7 +2,7 @@
   <h1 align="center">Youssef Aitousarrah's Personal Website ✨</h1>
   <p align="center">
     The personal website/portfolio of Youssef Aitousarrah, hosted with GitHub Pages. Built using React and Bootstrap. Site URL / Demo: 
-    <a href="https://aitous.github.io/home">anaashrafi.com</a>
+    <a href="https://aitous.github.io/home">aitous.com</a>
     <br />
   </p>
 </p>
