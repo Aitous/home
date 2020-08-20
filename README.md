@@ -9,7 +9,7 @@
 
 <!-- PROJECT LOGO -->
 
-[![Site preview](/public/social-image.png)](https://aitous.github.io/)
+[![Site preview](/public/social-image_youssef.png)](https://aitous.github.io/)
 
 ## Technology Stack 
 
