@@ -1,27 +1,29 @@
 {
   "files": {
     "main.css": "/home/static/css/main.6a3d9078.chunk.css",
-    "main.js": "/home/static/js/main.522ff750.chunk.js",
-    "main.js.map": "/home/static/js/main.522ff750.chunk.js.map",
+    "main.js": "/home/static/js/main.b26123ca.chunk.js",
+    "main.js.map": "/home/static/js/main.b26123ca.chunk.js.map",
     "runtime-main.js": "/home/static/js/runtime-main.e084aacb.js",
     "runtime-main.js.map": "/home/static/js/runtime-main.e084aacb.js.map",
     "static/css/2.de424728.chunk.css": "/home/static/css/2.de424728.chunk.css",
-    "static/js/2.06c37fd8.chunk.js": "/home/static/js/2.06c37fd8.chunk.js",
-    "static/js/2.06c37fd8.chunk.js.map": "/home/static/js/2.06c37fd8.chunk.js.map",
+    "static/js/2.3cc038f4.chunk.js": "/home/static/js/2.3cc038f4.chunk.js",
+    "static/js/2.3cc038f4.chunk.js.map": "/home/static/js/2.3cc038f4.chunk.js.map",
     "index.html": "/home/index.html",
-    "precache-manifest.2b78189418bd6244885d8d2682980b52.js": "/home/precache-manifest.2b78189418bd6244885d8d2682980b52.js",
+    "precache-manifest.fff23d29f87f5f43ef2754234963b707.js": "/home/precache-manifest.fff23d29f87f5f43ef2754234963b707.js",
     "service-worker.js": "/home/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/home/static/css/2.de424728.chunk.css.map",
     "static/css/main.6a3d9078.chunk.css.map": "/home/static/css/main.6a3d9078.chunk.css.map",
-    "static/js/2.06c37fd8.chunk.js.LICENSE.txt": "/home/static/js/2.06c37fd8.chunk.js.LICENSE.txt",
-    "static/media/Profile.JPG": "/home/static/media/Profile.c65637e7.JPG",
+    "static/js/2.3cc038f4.chunk.js.LICENSE.txt": "/home/static/js/2.3cc038f4.chunk.js.LICENSE.txt",
+    "static/media/Profile.JPG": "/home/static/media/Profile.6b4215a1.JPG",
+    "static/media/boeing.jpg": "/home/static/media/boeing.1096cc9a.jpg",
+    "static/media/dell-logo.jpg": "/home/static/media/dell-logo.fad82548.jpg",
     "static/media/resume.pdf": "/home/static/media/resume.2a1ad103.pdf"
   },
   "entrypoints": [
     "static/js/runtime-main.e084aacb.js",
     "static/css/2.de424728.chunk.css",
-    "static/js/2.06c37fd8.chunk.js",
+    "static/js/2.3cc038f4.chunk.js",
     "static/css/main.6a3d9078.chunk.css",
-    "static/js/main.522ff750.chunk.js"
+    "static/js/main.b26123ca.chunk.js"
   ]
 }
